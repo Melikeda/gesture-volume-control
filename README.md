@@ -60,6 +60,8 @@ gesture-volume-control/
 ├── README.md
 └── .gitignore
 
+---
+
 # 👩‍💻 Medium Serisi
 
 Bu proje günlük Computer Vision öğrenme serisinin parçasıdır.
